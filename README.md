@@ -1,8 +1,14 @@
 ### Hi there 👋
+
+![Zebradil's GitHub stats](https://github-readme-stats.vercel.app/api?username=zebradil&show_icons=true&count_private=true&theme=dark&card_width=450&hide_border=true)
+
 <!--
-![Zebradil's GitHub stats](https://github-readme-stats.vercel.app/api?username=zebradil&show_icons=true&count_private=true)
+![Zebradil's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=zebradil&show_icons=true&count_private=true&layout=compact&langs_count=8&theme=dark&card_width=450&hide_border=true)
+-->
 
+![Zebradil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zebradil&theme=dark&card_width=450&hide_border=true)
 
+<!--
 **Zebradil/zebradil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
